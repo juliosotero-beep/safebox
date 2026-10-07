@@ -111,3 +111,6 @@ O funcionamento básico do sistema será:
           |           |           |
           v           v           v
        Display       LEDs       Buzzer
+docs/
+src/
+hardware/
